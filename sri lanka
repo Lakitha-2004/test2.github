@@ -1,0 +1,44 @@
+<html>
+<head>
+	<title>Sri Lanka</title>
+</head>
+<body>
+	<h1> <center> <font face="Arial" color="blue"> <b> <u> SRI LANKA </u> </b> </font> </center> </h1>
+	<center> <img src="C:\\Users\Pictures\sri-lanka-travel-map.jpg" height="80%" width="40%" border="3" border color="black"> </center>
+	<center> <font face="Arial" size="4"> A map of Sri Lanka </font> </center>
+	<p>
+	    <font size="5">S</font>ri Lanka is an island located off the southern coast of India.Sri Lanka is surrounded by the Indian Ocean.The geography of Sri Lanka includes coastal plains in the north and hills and mountains in the interior.The government system is a republic.The chief of state and head of government is the president. 
+	</p>
+	<br>
+	<a href="http://www.president.gov.lk/president"> President </a>
+        <br><br>
+	People in Sri Lanka have four categories in ethnically.They are,
+	<br>
+	<ul type="disc">
+    		<li> Sinhala </li>
+    		<li> Tamil </li>
+    		<li> Muslim </li>
+    		<li> Burgher </li>
+	</ul>
+	<br><br>
+	<table border="1">
+		<caption> Principle Froms of Land use</caption>
+		<tr>
+	    		<th> USE </th>
+   			<th> EXTENT </th>
+		</tr>
+		<tr>
+			<td> Paddy </td>
+			<td> 500,000 </td>
+		</tr>
+		<tr>
+			<td> Tea </td>
+			<td> 190,000 </td>
+		</tr>
+		<tr>
+			<td> Rubber </td>
+			<td> 163,000 </td>
+		</tr>
+	</tabel>
+</body>
+</html>
